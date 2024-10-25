@@ -1,22 +1,31 @@
 #include "console.h"
-#define VGA_MEMORY ((unsigned char*)0xB8000)
-#define VGA_WIDTH 80
-#define VGA_HEIGHT 25
+static volatile unsigned char* VGA_MEMORY = (unsigned char*)0xB8000;
 
 static int terminal_position = 0;
 
-void print_character(char c) {
-	VGA_MEMORY[terminal_position * 2] = c;
-	VGA_MEMORY[terminal_position * 2 + 1] = 0x07;
+void clear_terminal() {
+        for(int i = 0; i < VGA_WIDTH * VGA_HEIGHT; i++) {
+                VGA_MEMORY[i * VGA_BYTES_PER_CHARACTER] = ' ';
+                VGA_MEMORY[i * VGA_BYTES_PER_CHARACTER + 1] = 0x07;
+        }
+	terminal_position = 0;
+}
 
-	terminal_position++;
+void print_character(char c) {
+	if(c == '\n') {
+		int row = terminal_position / VGA_WIDTH;
+		terminal_position = (row + 1) * VGA_WIDTH;
+	} else {
+		VGA_MEMORY[terminal_position * VGA_BYTES_PER_CHARACTER] = c;
+		VGA_MEMORY[terminal_position * VGA_BYTES_PER_CHARACTER + 1] = 0x07;
+		terminal_position++;
+	}
 }
 
 void print_string(char* str) {
-	int i = 0;
-	while(str[i] != '\0') {
-		print_character(str[i]);
-		i++;
+	while(*str) {
+		print_character(*str);
+		str++;
 	}
 }
 
@@ -25,4 +34,3 @@ void print_line(char* str) {
 	print_character('\n');
 }
 
-void clear_terminal();
