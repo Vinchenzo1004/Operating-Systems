@@ -248,3 +248,68 @@ vim console.h
 vim kernel.c
 vim console.c
 vim console/console.c 
+make clean
+make
+vim console/console.c 
+make clean
+make
+vim console/console.c 
+make clean
+make
+vim kernel.c
+vim include/console.h 
+vim console/console.c 
+make clean
+make
+vim console/console.c 
+vim include/console.h 
+vim kernel.c
+make clean
+make
+vim kernel.c
+vim console/console.c 
+make clean
+make
+make clean
+make
+ls
+vim myos
+vim Makefile 
+ls -l
+vim boot.asm
+make clean
+make
+vim kernel.c
+vim console/console.c 
+make clean
+make
+vim console/console.c 
+vim include/console.h 
+vim kernel.c
+vim console/console.c 
+vim kernel.c
+vim console/console.c 
+make clean
+make
+vim kernel.c
+make clean
+make
+vim console/console.c 
+make clean
+make
+vim include/console.h 
+vim console/console.c 
+vim kernel.c
+make clean
+make
+vim kernel.c
+vim console/console.c 
+vim include/console.h 
+make clean
+make
+git add .
+git commit -m "Changes from Constructive Feedback"
+git push origin main
+git push origin master
+make clean
+make

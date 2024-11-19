@@ -1,13 +1,13 @@
 #include "console.h"
-static volatile unsigned char* VGA_MEMORY = (unsigned char*)0xB8000;
+static unsigned char* VGA_MEMORY = (unsigned char*)0xB8000;
 
 static int terminal_position = 0;
 
 void clear_terminal() {
         for(int i = 0; i < VGA_WIDTH * VGA_HEIGHT; i++) {
-                VGA_MEMORY[i * VGA_BYTES_PER_CHARACTER] = ' ';
+                VGA_MEMORY[i * VGA_BYTES_PER_CHARACTER] = '\0';
                 VGA_MEMORY[i * VGA_BYTES_PER_CHARACTER + 1] = 0x07;
-        }
+       }
 	terminal_position = 0;
 }
 
