@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1732027407,,"wq"
+|2,0,1733344305,,"wq"
 :qa
 |2,0,1732027188,,"qa"
 :wqq
@@ -33,260 +33,285 @@ $
 
 # Registers:
 ""-	CHAR	0
-	c
-|3,1,36,0,1,0,1732027167,"c"
+	r
+|3,1,36,0,1,0,1733342305,"r"
 
 # File marks:
-'0  8  59  ~/console/console.c
-|4,48,8,59,1732027407,"~/console/console.c"
-'1  8  59  ~/console/console.c
-|4,49,8,59,1732027366,"~/console/console.c"
-'2  1  0  ~/include/console.h
-|4,50,1,0,1732027290,"~/include/console.h"
-'3  2  7  ~/console/console.c
-|4,51,2,7,1732027238,"~/console/console.c"
-'4  2  7  ~/console/console.c
-|4,52,2,7,1732027238,"~/console/console.c"
-'5  2  7  ~/console/console.c
-|4,53,2,7,1732027238,"~/console/console.c"
-'6  2  7  ~/console/console.c
-|4,54,2,7,1732027238,"~/console/console.c"
-'7  4  17  ~/kernel.c
-|4,55,4,17,1732027108,"~/kernel.c"
-'8  1  0  ~/include/console.h
-|4,56,1,0,1729866486,"~/include/console.h"
-'9  10  0  ~/console/console.c
-|4,57,10,0,1729866477,"~/console/console.c"
+'0  1  7  ~/console/console.c
+|4,48,1,7,1733344305,"~/console/console.c"
+'1  38  0  ~/include/console.h
+|4,49,38,0,1733344079,"~/include/console.h"
+'2  1  7  ~/console/console.c
+|4,50,1,7,1733343979,"~/console/console.c"
+'3  11  0  ~/include/console.h
+|4,51,11,0,1733343167,"~/include/console.h"
+'4  11  0  ~/include/console.h
+|4,52,11,0,1733343167,"~/include/console.h"
+'5  46  32  ~/console/console.c
+|4,53,46,32,1733343151,"~/console/console.c"
+'6  31  32  ~/console/console.c
+|4,54,31,32,1733343151,"~/console/console.c"
+'7  46  32  ~/console/console.c
+|4,55,46,32,1733343151,"~/console/console.c"
+'8  31  32  ~/console/console.c
+|4,56,31,32,1733343151,"~/console/console.c"
+'9  38  0  ~/include/console.h
+|4,57,38,0,1733342476,"~/include/console.h"
 
 # Jumplist (newest first):
+-'  1  7  ~/console/console.c
+|4,39,1,7,1733344305,"~/console/console.c"
+-'  38  0  ~/include/console.h
+|4,39,38,0,1733344079,"~/include/console.h"
+-'  38  0  ~/include/console.h
+|4,39,38,0,1733344079,"~/include/console.h"
+-'  11  0  ~/include/console.h
+|4,39,11,0,1733343990,"~/include/console.h"
+-'  11  0  ~/include/console.h
+|4,39,11,0,1733343990,"~/include/console.h"
+-'  1  7  ~/console/console.c
+|4,39,1,7,1733343979,"~/console/console.c"
+-'  1  7  ~/console/console.c
+|4,39,1,7,1733343979,"~/console/console.c"
+-'  46  32  ~/console/console.c
+|4,39,46,32,1733343177,"~/console/console.c"
+-'  46  32  ~/console/console.c
+|4,39,46,32,1733343177,"~/console/console.c"
+-'  46  32  ~/console/console.c
+|4,39,46,32,1733343177,"~/console/console.c"
+-'  11  0  ~/include/console.h
+|4,39,11,0,1733343167,"~/include/console.h"
+-'  11  0  ~/include/console.h
+|4,39,11,0,1733343167,"~/include/console.h"
+-'  11  0  ~/include/console.h
+|4,39,11,0,1733343167,"~/include/console.h"
+-'  11  0  ~/include/console.h
+|4,39,11,0,1733343167,"~/include/console.h"
+-'  38  0  ~/include/console.h
+|4,39,38,0,1733343158,"~/include/console.h"
+-'  38  0  ~/include/console.h
+|4,39,38,0,1733343158,"~/include/console.h"
+-'  38  0  ~/include/console.h
+|4,39,38,0,1733343158,"~/include/console.h"
+-'  38  0  ~/include/console.h
+|4,39,38,0,1733343158,"~/include/console.h"
+-'  31  32  ~/console/console.c
+|4,39,31,32,1733343151,"~/console/console.c"
+-'  31  32  ~/console/console.c
+|4,39,31,32,1733343151,"~/console/console.c"
+-'  31  32  ~/console/console.c
+|4,39,31,32,1733343151,"~/console/console.c"
+-'  31  32  ~/console/console.c
+|4,39,31,32,1733343151,"~/console/console.c"
+-'  31  32  ~/console/console.c
+|4,39,31,32,1733343151,"~/console/console.c"
+-'  11  59  ~/console/console.c
+|4,39,11,59,1733342489,"~/console/console.c"
+-'  11  59  ~/console/console.c
+|4,39,11,59,1733342489,"~/console/console.c"
+-'  11  59  ~/console/console.c
+|4,39,11,59,1733342489,"~/console/console.c"
+-'  11  59  ~/console/console.c
+|4,39,11,59,1733342489,"~/console/console.c"
+-'  11  59  ~/console/console.c
+|4,39,11,59,1733342489,"~/console/console.c"
+-'  11  59  ~/console/console.c
+|4,39,11,59,1733342489,"~/console/console.c"
+-'  11  59  ~/console/console.c
+|4,39,11,59,1733342489,"~/console/console.c"
+-'  38  0  ~/include/console.h
+|4,39,38,0,1733342476,"~/include/console.h"
+-'  38  0  ~/include/console.h
+|4,39,38,0,1733342476,"~/include/console.h"
+-'  38  0  ~/include/console.h
+|4,39,38,0,1733342476,"~/include/console.h"
+-'  38  0  ~/include/console.h
+|4,39,38,0,1733342476,"~/include/console.h"
+-'  38  0  ~/include/console.h
+|4,39,38,0,1733342476,"~/include/console.h"
+-'  38  0  ~/include/console.h
+|4,39,38,0,1733342476,"~/include/console.h"
+-'  38  0  ~/include/console.h
+|4,39,38,0,1733342476,"~/include/console.h"
+-'  38  0  ~/include/console.h
+|4,39,38,0,1733342476,"~/include/console.h"
+-'  1  0  ~/include/console.h
+|4,39,1,0,1733341758,"~/include/console.h"
+-'  1  0  ~/include/console.h
+|4,39,1,0,1733341758,"~/include/console.h"
+-'  1  0  ~/include/console.h
+|4,39,1,0,1733341758,"~/include/console.h"
+-'  1  0  ~/include/console.h
+|4,39,1,0,1733341758,"~/include/console.h"
+-'  1  0  ~/include/console.h
+|4,39,1,0,1733341758,"~/include/console.h"
+-'  1  0  ~/include/console.h
+|4,39,1,0,1733341758,"~/include/console.h"
+-'  1  0  ~/include/console.h
+|4,39,1,0,1733341758,"~/include/console.h"
+-'  1  0  ~/include/console.h
+|4,39,1,0,1733341758,"~/include/console.h"
+-'  1  0  ~/include/console.h
+|4,39,1,0,1733341758,"~/include/console.h"
+-'  1  0  ~/include/console.h
+|4,39,1,0,1733341758,"~/include/console.h"
+-'  1  0  ~/include/console.h
+|4,39,1,0,1733341758,"~/include/console.h"
+-'  1  0  ~/include/console.h
+|4,39,1,0,1733341758,"~/include/console.h"
+-'  1  0  ~/include/console.h
+|4,39,1,0,1733341758,"~/include/console.h"
+-'  1  0  ~/include/console.h
+|4,39,1,0,1733341758,"~/include/console.h"
 -'  8  59  ~/console/console.c
 |4,39,8,59,1732027407,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027407,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027407,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027407,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027407,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027407,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027407,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027407,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027407,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027407,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027407,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027366,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027366,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027366,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027366,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027366,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027366,"~/console/console.c"
+-'  8  59  ~/console/console.c
+|4,39,8,59,1732027366,"~/console/console.c"
 -'  8  59  ~/console/console.c
 |4,39,8,59,1732027366,"~/console/console.c"
 -'  2  7  ~/console/console.c
 |4,39,2,7,1732027335,"~/console/console.c"
 -'  2  7  ~/console/console.c
 |4,39,2,7,1732027335,"~/console/console.c"
--'  1  0  ~/include/console.h
-|4,39,1,0,1732027290,"~/include/console.h"
--'  1  0  ~/include/console.h
-|4,39,1,0,1732027290,"~/include/console.h"
--'  1  0  ~/include/console.h
-|4,39,1,0,1732027290,"~/include/console.h"
--'  1  0  ~/include/console.h
-|4,39,1,0,1732027290,"~/include/console.h"
 -'  2  7  ~/console/console.c
-|4,39,2,7,1732027238,"~/console/console.c"
+|4,39,2,7,1732027335,"~/console/console.c"
 -'  2  7  ~/console/console.c
-|4,39,2,7,1732027238,"~/console/console.c"
--'  10  0  ~/console/console.c
-|4,39,10,0,1732027124,"~/console/console.c"
--'  10  0  ~/console/console.c
-|4,39,10,0,1732027124,"~/console/console.c"
--'  10  0  ~/console/console.c
-|4,39,10,0,1732027124,"~/console/console.c"
--'  10  0  ~/console/console.c
-|4,39,10,0,1732027124,"~/console/console.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1732027108,"~/kernel.c"
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
+-'  2  7  ~/console/console.c
+|4,39,2,7,1732027335,"~/console/console.c"
 -'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
+|4,39,1,0,1732027290,"~/include/console.h"
 -'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
+|4,39,1,0,1732027290,"~/include/console.h"
 -'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
+|4,39,1,0,1732027290,"~/include/console.h"
 -'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
+|4,39,1,0,1732027290,"~/include/console.h"
 -'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
+|4,39,1,0,1732027290,"~/include/console.h"
 -'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
--'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
--'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
--'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
--'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
--'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
--'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
--'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
--'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
--'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
--'  1  0  ~/include/console.h
-|4,39,1,0,1729866486,"~/include/console.h"
--'  10  0  ~/console/console.c
-|4,39,10,0,1729866477,"~/console/console.c"
--'  10  0  ~/console/console.c
-|4,39,10,0,1729866477,"~/console/console.c"
--'  10  0  ~/console/console.c
-|4,39,10,0,1729866477,"~/console/console.c"
--'  10  0  ~/console/console.c
-|4,39,10,0,1729866477,"~/console/console.c"
--'  10  0  ~/console/console.c
-|4,39,10,0,1729866477,"~/console/console.c"
--'  10  0  ~/console/console.c
-|4,39,10,0,1729866477,"~/console/console.c"
--'  10  0  ~/console/console.c
-|4,39,10,0,1729866477,"~/console/console.c"
--'  10  0  ~/console/console.c
-|4,39,10,0,1729866477,"~/console/console.c"
--'  1  0  ~/console/console.c
-|4,39,1,0,1729866471,"~/console/console.c"
--'  1  0  ~/console/console.c
-|4,39,1,0,1729866471,"~/console/console.c"
--'  1  0  ~/console/console.c
-|4,39,1,0,1729866471,"~/console/console.c"
--'  1  0  ~/console/console.c
-|4,39,1,0,1729866471,"~/console/console.c"
--'  1  0  ~/console/console.c
-|4,39,1,0,1729866471,"~/console/console.c"
--'  1  0  ~/console/console.c
-|4,39,1,0,1729866471,"~/console/console.c"
--'  1  0  ~/console/console.c
-|4,39,1,0,1729866471,"~/console/console.c"
--'  1  0  ~/console/console.c
-|4,39,1,0,1729866471,"~/console/console.c"
--'  1  0  ~/console/console.c
-|4,39,1,0,1729866471,"~/console/console.c"
--'  1  0  ~/console/console.c
-|4,39,1,0,1729866471,"~/console/console.c"
--'  1  0  ~/console/console.c
-|4,39,1,0,1729866471,"~/console/console.c"
--'  1  0  ~/console/console.c
-|4,39,1,0,1729866471,"~/console/console.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1729866465,"~/kernel.c"
+|4,39,1,0,1732027290,"~/include/console.h"
 
 # History of marks within files (newest to oldest):
 
 > ~/console/console.c
-	*	1732027405	0
-	"	8	59
-	^	8	60
-	.	8	59
+	*	1733344302	0
+	"	1	7
+	^	1	8
+	.	1	8
 	+	2	67
-	+	36	0
-	+	35	6
-	+	35	5
-	+	16	1
-	+	15	12
-	+	36	0
-	+	6	23
+	+	30	0
+	+	29	6
+	+	29	5
+	+	18	2
+	+	18	12
+	+	30	0
+	+	9	23
+	+	16	0
+	+	10	55
+	+	11	25
+	+	12	29
+	+	14	22
 	+	13	0
-	+	7	55
-	+	8	25
-	+	9	29
-	+	11	22
-	+	10	0
 	+	2	6
-	+	8	59
+	+	11	59
+	+	5	0
+	+	6	90
+	+	6	89
+	+	7	86
+	+	48	0
+	+	47	0
+	+	52	0
+	+	18	2
+	+	18	78
+	+	22	83
+	+	22	27
+	+	27	25
+	+	31	80
+	+	34	56
+	+	38	37
+	+	44	0
+	+	1	8
 
 > ~/include/console.h
-	*	1732027287	0
-	"	1	0
+	*	1733344078	0
+	"	38	0
+	^	38	0
+	.	17	50
+	+	36	12
+	+	12	0
+	+	13	82
+	+	14	37
+	+	15	14
+	+	17	50
 
 > ~/kernel.c
 	*	1732027105	0

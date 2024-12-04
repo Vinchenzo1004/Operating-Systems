@@ -313,3 +313,33 @@ git push origin main
 git push origin master
 make clean
 make
+ls
+vim kernel.c
+cd console/
+ls
+vim console.c 
+build
+make clean
+cd ..
+make clean
+make
+cd include/
+ls
+vim console.h 
+cd ..
+cd console/console.c
+cd console/
+ls
+cd console.c
+vim console.c
+cd ..
+make clean
+make
+cd console/
+vim console.c
+cd ..
+make clean
+make
+git add .
+git commit -m "Changes from Second Round of Constructive Feedback"
+git push origin master
