@@ -10,11 +10,6 @@ void print_character(char c);
 void print_string(char* str);
 void print_line(char* str);
 
-void print_character_with_color(char c, VGA_Color bg_color, VGA_Color font_color);
-void print_string_with_color(char* str, VGA_Color bg_color, VGA_Color font_color);
-void print_line_with_color(char* str, VGA_Color bg_color, VGA_Color font_color);
-void set_terminal_font_color(VGA_Color col);
-void set_terminal_background_color(VGA_Color col);
 
 typedef enum {
 	BLACK = 0,
@@ -34,5 +29,11 @@ typedef enum {
 	YELLOW,
 	WHITE
 } VGA_Color;
+
+void print_character_with_color(char c, VGA_Color bg_color, VGA_Color font_color);
+void print_string_with_color(char* str, VGA_Color bg_color, VGA_Color font_color);
+void print_line_with_color(char* str, VGA_Color bg_color, VGA_Color font_color);
+void set_terminal_font_color(VGA_Color col);
+void set_terminal_background_color(VGA_Color col);
 
 #endif
