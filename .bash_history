@@ -343,3 +343,68 @@ make
 git add .
 git commit -m "Changes from Second Round of Constructive Feedback"
 git push origin master
+ls
+cd console/
+ls
+cd ..
+cd include/
+ls
+vim console.h 
+cd ..
+cd console/
+vim console.c 
+cd ..
+cd include/
+vim console.h 
+cd ..
+cd console/
+vim console.c 
+cd ..
+cd console/
+cd ..
+cd include/
+vim console.h 
+cd ..
+cd console/
+vim console.c 
+cd ..
+git add .
+git commit -m "Changes from Second Round of Constructive Feedback"
+git commit -m "Semester Long Project Part 3"
+git push origin master
+cd console/
+vim console.c 
+cd ..
+ls
+vim kernel.c
+make clean
+make
+cd console/
+cd ..
+cd include/
+vim console.h 
+cd ..
+make clean
+make
+cd include/
+vim console.h 
+cd ..
+cd console/
+vim console.c 
+cd ..
+make clean
+make
+cd console/
+vim console.c 
+cd ..
+make clean
+make
+cd console/
+vim console.c 
+cd ..
+make clean
+make
+git commit -m "Semester Long Project Part 3"
+git add .
+git commit -m "Semester Long Project Part 3"
+git push origin master

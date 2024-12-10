@@ -2,7 +2,8 @@
 <application-state>
   <context id="">
     <application id="org.gnome.Nautilus.desktop" score="1" last-seen="1733341718"/>
-    <application id="org.gnome.Terminal.desktop" score="5" last-seen="1733341770"/>
+    <application id="org.gnome.Terminal.desktop" score="1323" last-seen="1733864549"/>
     <application id="update-manager.desktop" score="1" last-seen="1733341779"/>
+    <application id="qemu.desktop" score="15" last-seen="1733345722"/>
   </context>
 </application-state>

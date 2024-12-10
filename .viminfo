@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1733345611,,"wq"
+|2,0,1733867831,,"wq"
 :qa
 |2,0,1732027188,,"qa"
 :wqq
@@ -37,289 +37,365 @@ $
 |3,1,36,0,1,0,1733342305,"r"
 
 # File marks:
-'0  46  66  ~/console/console.c
-|4,48,46,66,1733345611,"~/console/console.c"
-'1  41  0  ~/console/console.c
-|4,49,41,0,1733345581,"~/console/console.c"
-'2  41  0  ~/console/console.c
-|4,50,41,0,1733345581,"~/console/console.c"
-'3  7  28  ~/console/console.c
-|4,51,7,28,1733345510,"~/console/console.c"
-'4  7  28  ~/console/console.c
-|4,52,7,28,1733345510,"~/console/console.c"
-'5  7  28  ~/console/console.c
-|4,53,7,28,1733345510,"~/console/console.c"
-'6  7  28  ~/console/console.c
-|4,54,7,28,1733345510,"~/console/console.c"
-'7  39  0  ~/include/console.h
-|4,55,39,0,1733345488,"~/include/console.h"
-'8  38  0  ~/include/console.h
-|4,56,38,0,1733345405,"~/include/console.h"
-'9  38  0  ~/include/console.h
-|4,57,38,0,1733345405,"~/include/console.h"
+'0  3  86  ~/Makefile
+|4,48,3,86,1733867831,"~/Makefile"
+'1  2  18  ~/console/console.c
+|4,49,2,18,1733867779,"~/console/console.c"
+'2  18  0  ~/console/console.c
+|4,50,18,0,1733867633,"~/console/console.c"
+'3  16  0  ~/console/console.c
+|4,51,16,0,1733867633,"~/console/console.c"
+'4  78  198  ~/console/console.c
+|4,52,78,198,1733867568,"~/console/console.c"
+'5  77  0  ~/console/console.c
+|4,53,77,0,1733867568,"~/console/console.c"
+'6  76  198  ~/console/console.c
+|4,54,76,198,1733867568,"~/console/console.c"
+'7  75  0  ~/console/console.c
+|4,55,75,0,1733867568,"~/console/console.c"
+'8  2  19  ~/kernel.c
+|4,56,2,19,1733867157,"~/kernel.c"
+'9  3  95  ~/Makefile
+|4,57,3,95,1733866895,"~/Makefile"
 
 # Jumplist (newest first):
--'  46  66  ~/console/console.c
-|4,39,46,66,1733345611,"~/console/console.c"
--'  41  0  ~/console/console.c
-|4,39,41,0,1733345595,"~/console/console.c"
--'  41  0  ~/console/console.c
-|4,39,41,0,1733345581,"~/console/console.c"
--'  7  28  ~/console/console.c
-|4,39,7,28,1733345527,"~/console/console.c"
--'  7  28  ~/console/console.c
-|4,39,7,28,1733345527,"~/console/console.c"
--'  7  28  ~/console/console.c
-|4,39,7,28,1733345510,"~/console/console.c"
--'  39  0  ~/console/console.c
-|4,39,39,0,1733345494,"~/console/console.c"
--'  40  0  ~/console/console.c
-|4,39,40,0,1733345494,"~/console/console.c"
--'  39  0  ~/console/console.c
-|4,39,39,0,1733345494,"~/console/console.c"
--'  40  0  ~/console/console.c
-|4,39,40,0,1733345494,"~/console/console.c"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345488,"~/include/console.h"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345488,"~/include/console.h"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345488,"~/include/console.h"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345488,"~/include/console.h"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345488,"~/include/console.h"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345488,"~/include/console.h"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345488,"~/include/console.h"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345488,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345468,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345468,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345468,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345468,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345468,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345468,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345468,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345468,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345405,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345405,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345405,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345405,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345405,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345405,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345405,"~/include/console.h"
--'  38  0  ~/include/console.h
-|4,39,38,0,1733345405,"~/include/console.h"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345323,"~/include/console.h"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345323,"~/include/console.h"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345323,"~/include/console.h"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345323,"~/include/console.h"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345323,"~/include/console.h"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345323,"~/include/console.h"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345323,"~/include/console.h"
--'  39  0  ~/include/console.h
-|4,39,39,0,1733345323,"~/include/console.h"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  8  7  ~/kernel.c
-|4,39,8,7,1733345285,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
--'  4  17  ~/kernel.c
-|4,39,4,17,1733345210,"~/kernel.c"
+-'  3  86  ~/Makefile
+|4,39,3,86,1733867831,"~/Makefile"
+-'  2  18  ~/console/console.c
+|4,39,2,18,1733867779,"~/console/console.c"
+-'  2  18  ~/console/console.c
+|4,39,2,18,1733867779,"~/console/console.c"
+-'  18  0  ~/console/console.c
+|4,39,18,0,1733867733,"~/console/console.c"
+-'  18  0  ~/console/console.c
+|4,39,18,0,1733867733,"~/console/console.c"
+-'  16  0  ~/console/console.c
+|4,39,16,0,1733867633,"~/console/console.c"
+-'  16  0  ~/console/console.c
+|4,39,16,0,1733867633,"~/console/console.c"
+-'  78  198  ~/console/console.c
+|4,39,78,198,1733867585,"~/console/console.c"
+-'  76  198  ~/console/console.c
+|4,39,76,198,1733867585,"~/console/console.c"
+-'  78  198  ~/console/console.c
+|4,39,78,198,1733867585,"~/console/console.c"
+-'  76  198  ~/console/console.c
+|4,39,76,198,1733867585,"~/console/console.c"
+-'  77  0  ~/console/console.c
+|4,39,77,0,1733867568,"~/console/console.c"
+-'  75  0  ~/console/console.c
+|4,39,75,0,1733867568,"~/console/console.c"
+-'  77  0  ~/console/console.c
+|4,39,77,0,1733867568,"~/console/console.c"
+-'  75  0  ~/console/console.c
+|4,39,75,0,1733867568,"~/console/console.c"
+-'  76  16  ~/console/console.c
+|4,39,76,16,1733867356,"~/console/console.c"
+-'  74  16  ~/console/console.c
+|4,39,74,16,1733867356,"~/console/console.c"
+-'  76  16  ~/console/console.c
+|4,39,76,16,1733867356,"~/console/console.c"
+-'  74  16  ~/console/console.c
+|4,39,74,16,1733867356,"~/console/console.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  2  19  ~/kernel.c
+|4,39,2,19,1733867157,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  12  1  ~/kernel.c
+|4,39,12,1,1733867061,"~/kernel.c"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  3  95  ~/Makefile
+|4,39,3,95,1733866895,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  4  0  ~/Makefile
+|4,39,4,0,1733866516,"~/Makefile"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
+-'  11  1  ~/kernel.c
+|4,39,11,1,1733866505,"~/kernel.c"
 
 # History of marks within files (newest to oldest):
 
+> ~/Makefile
+	*	1733867830	0
+	"	3	86
+	^	3	87
+	.	3	86
+	+	3	86
+
 > ~/console/console.c
-	*	1733345610	0
-	"	46	66
-	^	46	67
-	.	46	66
-	+	2	67
-	+	29	0
-	+	28	6
-	+	28	5
-	+	18	2
-	+	18	12
-	+	29	0
-	+	9	23
-	+	16	0
-	+	10	55
-	+	11	25
-	+	12	29
-	+	14	22
-	+	13	0
-	+	2	6
-	+	11	59
-	+	5	0
-	+	6	90
-	+	6	89
-	+	7	86
-	+	60	0
-	+	59	0
-	+	64	0
-	+	18	2
-	+	18	78
-	+	22	83
-	+	22	27
-	+	26	25
-	+	30	80
-	+	33	56
-	+	37	37
-	+	43	0
+	*	1733867778	0
+	"	2	18
+	^	2	19
+	.	2	18
+	+	4	67
+	+	41	0
+	+	40	6
+	+	40	5
+	+	30	2
+	+	30	12
+	+	41	0
+	+	20	23
+	+	28	0
+	+	21	55
+	+	22	25
+	+	23	29
+	+	25	22
+	+	24	0
+	+	4	6
+	+	22	59
+	+	7	0
+	+	8	90
+	+	8	89
+	+	9	86
+	+	74	0
+	+	73	0
+	+	78	0
+	+	30	2
+	+	30	78
+	+	34	83
+	+	34	27
+	+	38	25
+	+	42	80
+	+	45	56
+	+	49	37
+	+	55	0
 	+	1	8
-	+	43	61
-	+	45	14
-	+	48	1
-	+	46	1
-	+	48	11
-	+	49	11
-	+	48	61
-	+	49	64
-	+	50	0
-	+	49	78
-	+	51	0
-	+	50	2
-	+	56	1
-	+	7	28
-	+	22	78
-	+	46	66
+	+	55	61
+	+	57	14
+	+	60	1
+	+	58	1
+	+	60	11
+	+	61	11
+	+	60	61
+	+	61	64
+	+	62	0
+	+	61	78
+	+	63	0
+	+	62	2
+	+	70	1
+	+	9	28
+	+	34	78
+	+	58	66
+	+	78	159
+	+	78	130
+	+	78	149
+	+	78	194
+	+	69	16
+	+	26	16
+	+	78	198
+	+	79	0
+	+	11	21
+	+	17	1
+	+	2	18
+
+> ~/kernel.c
+	*	1733867156	0
+	"	2	19
+	^	2	20
+	.	2	19
+	+	6	0
+	+	4	13
+	+	6	0
+	+	4	12
+	+	1	20
+	+	6	0
+	+	5	17
+	+	6	45
+	+	6	93
+	+	6	119
+	+	12	0
+	+	2	19
+
+> ~/device/keyboard/portmap.c
+	*	1733866080	0
+	"	11	0
+	^	11	1
+	.	11	0
+	+	1	20
+	+	5	61
+	+	9	3
+	+	7	1
+	+	9	38
+	+	11	0
+
+> ~/device/keyboard/keyboard.c
+	*	1733865582	0
+	"	19	0
+	^	19	1
+	.	19	0
+	+	1	20
+	+	2	21
+	+	12	8
+	+	14	24
+	+	16	2
+	+	14	2
+	+	19	0
+
+> ~/include/portmap.h
+	*	1733864933	0
+	"	8	0
+	^	8	0
+	.	7	38
+	+	4	19
+	+	6	115
+	+	6	131
+	+	6	100
+	+	6	130
+	+	6	246
+	+	9	5
+	+	6	27
+	+	7	38
 
 > ~/include/console.h
-	*	1733345487	0
-	"	39	0
+	*	1733864803	0
+	"	1	0
 	^	38	0
 	.	37	50
 	+	31	12
@@ -332,22 +408,19 @@ $
 	+	13	0
 	+	37	50
 
-> ~/kernel.c
-	*	1733345283	0
-	"	8	7
-	^	8	8
-	.	8	7
-	+	5	0
-	+	3	13
-	+	5	0
-	+	3	12
-	+	1	20
-	+	5	0
-	+	4	17
-	+	5	45
-	+	6	45
-	+	7	23
-	+	8	7
+> ~/include/keyboard.h
+	*	1733864785	0
+	"	22	5
+	^	22	6
+	.	22	5
+	+	11	19
+	+	12	20
+	+	16	5
+	+	14	18
+	+	1	29
+	+	4	19
+	+	6	18
+	+	22	5
 
 > ~/boot.asm
 	*	1729864688	0
@@ -355,7 +428,3 @@ $
 	^	81	19
 	.	81	18
 	+	81	18
-
-> ~/Makefile
-	*	1729864534	0
-	"	4	0
